@@ -1,2 +1,3 @@
-# mobile
-Mobile Application for the San Diego Jamaat
+# SD Jamaat Mobile App
+
+Cross-platform mobile application for the San Diego Jamaat
